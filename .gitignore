@@ -5,7 +5,7 @@ z*
 #Ignores a file called .env
 .env
 #Ignores a top-level directory named artifacts
-/artifacts
+/artifacts/
 
 # User-specific files - Ignore all files ending in ".suo"
 *.suo
